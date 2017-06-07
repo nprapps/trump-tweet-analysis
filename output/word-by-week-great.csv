@@ -1,5 +1,5 @@
 ,text,text,text
-source_clean,b'Twitter Ads',b'Twitter for Android',b'Twitter for iPhone'
+source_clean,Twitter Ads,Twitter for Android,Twitter for iPhone
 week,,,
 1,0.0,5.0,1.0
 2,0.0,5.0,0.0
@@ -19,3 +19,7 @@ week,,,
 16,2.0,0.0,3.0
 17,0.0,0.0,3.0
 18,1.0,0.0,8.0
+19,0.0,0.0,3.0
+20,3.0,0.0,4.0
+21,0.0,0.0,3.0
+22,0.0,0.0,7.0
