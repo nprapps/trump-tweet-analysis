@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 
 ### Run the notebook
 `
-jupyter notebook
+$ jupyter notebook
 `
 
 The homepage of the notebook should open automatically in your preferred browser. If it doesn't copy the URL given in terminal.
