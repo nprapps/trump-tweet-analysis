@@ -2,12 +2,20 @@
 
 Data from the [Trump Twitter archive](http://www.trumptwitterarchive.com/).
 
-This analysis was used in a [Morning Edition radio segment](http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting). However, because this version uses the latest data at the time the notebook was last run, the data analyzed will be more up-to-date than the radio piece, which taped on April 26, 2017.
+#### Previous versions
+
+A [2017 version of this analysis](https://github.com/nprapps/trump-tweet-analysis/releases/tag/v1.0) was used in a [Morning Edition radio segment](http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting).
+
+The current iteration has diverged in several significant ways, including:
+
+- Updating the underlying data to cover Trump's presidency to date (through Aug. 26, 2018).
+- Updating the analysis code to accommodate data from multiple years.
+- Different keyword searches
 
 ### Assumptions
 
 * Python 3 - If you don't have it, you can install it with Homebrew using the command `brew install python3`
-* virtualenvwrapper - Used for isolating notebook dependencies 
+* virtualenvwrapper - Used for isolating notebook dependencies
 
 ### Bootstrap the project
 
