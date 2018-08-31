@@ -11,6 +11,7 @@ The current iteration has diverged in several significant ways, including:
 - Updating the underlying data to cover Trump's presidency to date (through Aug. 31, 2018).
 - Updating the analysis code to accommodate data from multiple years.
 - Different keyword searches
+- Commented out the sentiment analysis
 
 ### Assumptions
 
