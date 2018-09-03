@@ -2,11 +2,13 @@
 
 Data from the [Trump Twitter archive](http://www.trumptwitterarchive.com/).
 
-#### Previous versions
+#### Versions
 
 A [2017 version of this analysis](https://github.com/nprapps/trump-tweet-analysis/releases/tag/v1.0) was used in a [Morning Edition radio segment](http://www.npr.org/2017/04/27/525833198/analyzing-trumps-patterns-of-tweeting).
 
-The current iteration has diverged in several significant ways, including:
+The [most recent version of this analysis](https://github.com/nprapps/trump-tweet-analysis/releases/tag/1.1) informed an [_All Things Considered_ radio story and an NPR.org digital story](https://www.npr.org/2018/09/02/643761979/president-trumps-description-of-whats-fake-is-expanding) about President Trump's use of the words "fake" and "phony."
+
+The current iteration has diverged in several significant ways from the original, including:
 
 - Updating the underlying data to cover Trump's presidency to date (through Aug. 31, 2018).
 - Updating the analysis code to accommodate data from multiple years.
